@@ -1,0 +1,11 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background-image: url(../images/futuristic.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: #0000009e;
+    background-blend-mode: multiply;
+}
